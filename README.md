@@ -11,6 +11,6 @@ Then add Banner ads to bottom and inside ListView
 Code shows clean way of accessing a listing json data without the use of data models. (Snapshot)
 
 ### Without Ads Image
-<img src="https://github.com/maydev99/cryptology/blob/master/media/3phonesmock2.png" width=75% height=75%>
+<img src="https://github.com/maydev99/drink_ad/blob/master/flutter_01.png" width=75% height=75%>
 
 
