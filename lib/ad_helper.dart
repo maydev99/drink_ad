@@ -5,7 +5,7 @@ class AdHelper {
     if (Platform.isAndroid) {
       return 'ca-app-pub-3940256099942544/6300978111'; //Ad Unit Id
     } else if (Platform.isIOS) {
-      return '[ADD IOS ADD UNIT ID HERE]';
+      return 'ca-app-pub-3940256099942544/6300978111';
     } else {
       throw UnsupportedError('Unsuppported platform');
     }
@@ -15,7 +15,7 @@ class AdHelper {
     if (Platform.isAndroid) {
       return 'ca-app-pub-3940256099942544/8691691433'; //Ad Unit Id
     } else if (Platform.isIOS) {
-      return '[ADD IOS ADD UNIT ID HERE]';
+      return 'ca-app-pub-3940256099942544/8691691433';
     } else {
       throw UnsupportedError('Unsuppported platform');
     }
