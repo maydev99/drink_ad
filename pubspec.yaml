@@ -15,6 +15,7 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: any
+  google_mobile_ads: ^1.2.0
 
 dev_dependencies:
   flutter_test:
