@@ -11,7 +11,7 @@ class ApiService {
         Uri.parse('https://www.thecocktaildb.com/api/json/v1/1/filter.php?i=Gin');
     final response = await http.get(myUrl);
     //log.i(response.statusCode);
-   // log.i(response.body);
+    log.i(response.body);
     return json.decode(response.body);
   }
 }
